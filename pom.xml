@@ -84,7 +84,7 @@
 		
 		<!-- provided dependencies -->
 
-		</dependency>	
+		</dependencies>	
 	</dependencies>	
 	<distributionManagement>
 	    <repository>

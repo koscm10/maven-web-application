@@ -85,7 +85,7 @@
 		<!-- provided dependencies -->
 
 		</dependencies>	
-	</dependencies>	
+	</project>	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>

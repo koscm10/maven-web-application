@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>KCM Release</name>
 	      <url>http://54.234.35.177:8081/repository/TeslaSnapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>KCM Snapshot/name>
 	      <url>http://54.234.35.177:8081/repository/Teslass/</url>
 	    </snapshotRepository>
 	    
